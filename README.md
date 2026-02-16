@@ -2,7 +2,7 @@
 (c) 2026 homemovie 
 
 
-- 🔭 I’m currently working on the nowest update in duckcraft
+- 🔭 I’m currently working on the newest update in duckcraft
 - 🌱 I’m currently learning tons of wasm node.js java javascript html css and teavm and gradle
 - 🤔 I’m looking for help with duckcraft to go on to be teavm
 - 💬 Ask me about how i make duckcraft instances virtualized
