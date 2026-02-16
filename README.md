@@ -1,6 +1,6 @@
 # homemovie offical readme
 (c) 2026 homemovie 
-Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on the nowest update in duckcraft
 - 🌱 I’m currently learning tons of wasm node.js java javascript html css and teavm and gradle
