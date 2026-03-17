@@ -12,3 +12,4 @@ but since i liked to code i thought why dont i make software with the branding H
 then i learned js and html then... all of this started.
 =====
 so if you would like to help on any of my projects go and help me! 
+by the way if you see me on kyptycmc or archmc, my name is hushedword.
